@@ -1,5 +1,7 @@
 # Spatial Plaid Attention Decoder for Semantic Segmentation (ICIP 2024)
-
+<a href="https://scholar.google.com/citations?user=ChVH78sAAAAJ&hl=en">Abolfazl Meyarian</a> , 
+<a href="https://scholar.google.com/citations?user=4F2la7sAAAAJ&hl=en">Xiaohui Yuan</a> ,
+<a href="https://scholar.google.com/citations?user=LyQTsQcAAAAJ&hl=en">Zhinan Qiao</a> <br/>
 [[`IEEE ICIP`](https://ieeexplore.ieee.org/abstract/document/10648129)] [[`BibTeX`](#CitingSPADe)]
 
 <div align="center">
@@ -17,7 +19,7 @@ Our SPADe has a receptive field similar to the pRF of human vision, telling of i
 We have also provided a comparison of SPADe with UPerNet on Cityscapes val.:
 
 <div align="center">
-  <img src="images/UPerNetSPADE.jpg" width="60%" height="60%"/>
+  <img src="images/UPerNetSPADE.jpg" width="40%" height="40%"/>
 </div><br/>
 
 
