@@ -3,7 +3,7 @@
 [[`IEEE ICIP`](https://ieeexplore.ieee.org/abstract/document/10648129)] [[`BibTeX`](#CitingSPADe)]
 
 <div align="center">
-  <img src="" width="100%" height="100%"/>
+  <img src="images/NetworkArchitecture.jpg" width="100%" height="100%"/>
 </div><br/>
 
 ### Features
