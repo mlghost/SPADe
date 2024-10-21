@@ -7,11 +7,11 @@
 </div><br/>
 
 ### Features
-
-## Updates
+SPADe achieves the same high performance as most popular state-of-the-art decoders using only 4M parameters. This is particularly beneficial when working with large backbones or limited resources.
 
 ## Installation
 
+The SPADe is developed within the MMSegmentation framework from OpenMMLab. To use SPADe, you can either integrate this implementation into your project as a single model class or embed it into the decoders implemented by MMSegmentation. The implementation is provided in a single file for your convenience.
 
 ## Getting Started
 
